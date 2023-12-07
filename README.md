@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning, Artificial Intelligence, Generative AI projects**
 
-- 💬 Ask me about **NodeJS, React, Angular, Python, ML, AI**
+- 💬 Ask me about **NodeJS, NextJS, React, Angular, Python, NX, Docker, Terraform, ML, AI**
 
 - 📫 How to reach me **rprotsyk@gmail.com**
 
